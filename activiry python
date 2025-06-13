@@ -1,0 +1,13 @@
+idade = 17
+string = "minha idade "
+#print string + str(idade)
+
+
+string2 = "1.70 "
+idade += float(string2)
+#print string2 + str(idade)
+
+
+altura = True
+idade2 = False
+print str(altura) + str(idade2)
