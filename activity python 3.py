@@ -1,8 +1,8 @@
 flexas = 7
 quantidade_necessaria = 7
 if flexas < quantidade_necessaria :
-  print "nao derrota"
+  print ("nao derrota")
 if flexas > quantidade_necessaria :
-  print "derrota e sobra"
+  print ("derrota e sobra")
 if flexas == quantidade_necessaria :
-  print "derrota"
+  print ("derrota")

@@ -10,4 +10,4 @@ idade += float(string2)
 
 altura = True
 idade2 = False
-print str(altura) + str(idade2)
+print (str(altura) + str(idade2))
