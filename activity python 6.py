@@ -1,5 +1,5 @@
 """
-Description: Mad lib python codeacadeemy
+Deription: Mad lib python codeacadeemy
 Author: Davi
 """
 
@@ -10,5 +10,31 @@ print ("mad libs")
 name = input("Enter a name: ")
 adjetivo1 = input("Enter a adjetivo1: ") 
 adjetivo2 = input("Enter a adjetivo2: ")
-adjetivo3 = input("Enter a adjetivo3: ")
-print (name + " " + adjetivo1 + " " + adjetivo2 + " " + adjetivo3)  
+adjetivo3 = input("Enter a adjetivo3: ") 
+verbo = input("enter verb")
+substantivo1 = input("enter noun1 ")
+substantivo2 = input("enter noun2 ")
+
+print (name + " " + adjetivo1 + " " + adjetivo2 + " " + adjetivo3 + "  " + verbo + "  " + substantivo1 + "  " + substantivo2 ) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
